@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1779082370598,
+    "userId": 101,
+    "title": "Placement Result",
+    "message": "You are shortlisted",
+    "type": "placement",
+    "isRead": false,
+    "createdAt": "2026-05-18T05:32:50.598Z"
+  },
+  {
+    "id": 1779082509593,
+    "userId": 101,
+    "title": "Placement Result",
+    "message": "You are shortlisted",
+    "type": "placement",
+    "isRead": false,
+    "createdAt": "2026-05-18T05:35:09.593Z"
+  }
+]
